@@ -1,0 +1,14 @@
+# Video files to skip
+SMS.mp4
+School Management System.mkv
+
+# IDE & Build folders
+.idea/
+out/
+target/
+*.class
+
+# Temporary files
+*.log
+*.tmp
+.DS_Store
